@@ -1,0 +1,127 @@
+
+CPU number: 2 has started
+CPU number: 1 has started
+CPU number: 3 has started
+CPU number: 1 is starting..with Process number: 4
+Completion time: 8 Wait time: 15 Number IO requests: 12
+
+
+CPU number: 2 is starting..with Process number: 7
+Completion time: 18 Wait time: 22 Number IO requests: 12
+
+
+CPU number: 1 is starting..with Process number: 8
+Completion time: 15 Wait time: 42 Number IO requests: 12
+
+
+CPU number: 3 is starting..with Process number: 14
+Completion time: 14 Wait time: 54 Number IO requests: 12
+
+
+CPU number: 1 is starting..with Process number: 16
+Completion time: 12 Wait time: 69 Number IO requests: 12
+
+
+CPU number: 2 is starting..with Process number: 21
+Completion time: 7 Wait time: 79 Number IO requests: 12
+
+
+CPU number: 1 is starting..with Process number: 26
+Completion time: 8 Wait time: 86 Number IO requests: 12
+
+
+CPU number: 2 is starting..with Process number: 30
+Completion time: 9 Wait time: 93 Number IO requests: 12
+
+
+CPU number: 3 is starting..with Process number: 1
+Completion time: 9 Wait time: 119 Number IO requests: 12
+
+
+CPU number: 2 is starting..with Process number: 11
+Completion time: 5 Wait time: 124 Number IO requests: 12
+
+
+CPU number: 3 is starting..with Process number: 23
+Completion time: 8 Wait time: 123 Number IO requests: 11
+
+
+CPU number: 1 is starting..with Process number: 25
+Completion time: 3 Wait time: 131 Number IO requests: 7
+
+
+CPU number: 2 is starting..with Process number: 27
+Completion time: 4 Wait time: 133 Number IO requests: 12
+
+
+CPU number: 3 is starting..with Process number: 3
+Completion time: 6 Wait time: 150 Number IO requests: 12
+
+
+CPU number: 1 is starting..with Process number: 6
+Completion time: 3 Wait time: 156 Number IO requests: 12
+
+
+CPU number: 2 is starting..with Process number: 9
+Completion time: 4 Wait time: 158 Number IO requests: 12
+
+
+CPU number: 3 is starting..with Process number: 13
+Completion time: 5 Wait time: 160 Number IO requests: 12
+
+
+CPU number: 1 is starting..with Process number: 15
+Completion time: 5 Wait time: 165 Number IO requests: 11
+
+
+CPU number: 2 is starting..with Process number: 18
+Completion time: 4 Wait time: 168 Number IO requests: 12
+
+
+CPU number: 3 is starting..with Process number: 20
+Completion time: 5 Wait time: 172 Number IO requests: 12
+
+
+CPU number: 1 is starting..with Process number: 24
+Completion time: 4 Wait time: 175 Number IO requests: 12
+
+
+CPU number: 2 is starting..with Process number: 29
+Completion time: 4 Wait time: 176 Number IO requests: 12
+
+
+CPU number: 3 is starting..with Process number: 2
+Completion time: 5 Wait time: 195 Number IO requests: 12
+
+
+CPU number: 1 is starting..with Process number: 5
+Completion time: 4 Wait time: 198 Number IO requests: 12
+
+
+CPU number: 2 is starting..with Process number: 10
+Completion time: 3 Wait time: 200 Number IO requests: 12
+
+
+CPU number: 3 is starting..with Process number: 12
+Completion time: 5 Wait time: 202 Number IO requests: 12
+
+
+CPU number: 1 is starting..with Process number: 17
+Completion time: 7 Wait time: 205 Number IO requests: 12
+
+
+CPU number: 2 is starting..with Process number: 19
+Completion time: 3 Wait time: 212 Number IO requests: 10
+
+
+CPU number: 3 is starting..with Process number: 22
+Completion time: 3 Wait time: 213 Number IO requests: 12
+
+
+CPU number: 1 is starting..with Process number: 28
+Completion time: 6 Wait time: 214 Number IO requests: 12
+
+
+CPU number: 3 has terminated
+CPU number: 1 has terminated
+CPU number: 2 has terminated
